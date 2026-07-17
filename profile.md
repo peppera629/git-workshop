@@ -1,5 +1,5 @@
 # My Profile
 
 Name:
-Hobby:
+Hobby: Photography
 Workshop goal: Learn basic Git
